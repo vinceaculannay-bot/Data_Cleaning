@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Orayt",
+            "group": "Day5",
+            "database": "C:\\Users\\Admin\\Desktop\\test_files\\Day04_practice.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Day6_Cleaning}/Day06_practice.db",
+            "name": "Clean"
+        }
+    ]
+}
